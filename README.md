@@ -1,2 +1,2 @@
 # Javascript-slider-miniproject
-Javascript photo slider
+This is my first Javascript miniproject- photo slider
